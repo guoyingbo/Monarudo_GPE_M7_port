@@ -1082,14 +1082,7 @@ uint32_t acpu_check_khz_value(unsigned long khz)
 
 	return 0;
 }
-EXPORT_SYMBOL(acpu_check_khz_value);
-/* end cmdline_khz */
-#endif
 
-uint32_t global_speed_bin;
-
-	return 0;
-}
 EXPORT_SYMBOL(acpu_check_khz_value);
 /* end cmdline_khz */
 #endif
